@@ -5,7 +5,12 @@
 ```
 
 首先在PCL2下载页面选整合包
+
 然后保存
+
 然后可以下载JECH拼音搜索MOD（版本一定要选对！！！）
+JECH就是 通用拼音搜索  |  Just enough characters
+
 然后打i18n mod（汉化）
+
 最后打汉化补丁
